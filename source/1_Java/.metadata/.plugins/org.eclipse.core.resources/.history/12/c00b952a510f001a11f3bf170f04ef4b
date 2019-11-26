@@ -1,0 +1,13 @@
+package com.tj.ex;
+
+public class VarEx01 {
+	public static void main(String[] args) {
+		int age = 25;
+		String name = "æ∆¿Ã¿Ø";
+		System.out.println("æ»≥Á«œººø‰? "+age+"ªÏ "+name+"ææ");
+		System.out.println("æ»≥Á«œººø‰? "+age+"ªÏ "+name+"ææ");
+		System.out.println("æ»≥Á«œººø‰? "+age+"ªÏ "+name+"ææ");
+		System.out.println("æ»≥Á«œººø‰? "+age+"ªÏ "+name+"ææ");
+		System.out.println("æ»≥Á«œººø‰? "+age+"ªÏ "+name+"ææ");
+	}
+}

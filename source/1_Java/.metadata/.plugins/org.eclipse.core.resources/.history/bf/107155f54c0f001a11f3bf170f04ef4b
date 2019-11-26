@@ -1,0 +1,16 @@
+package com.tj.ex;
+
+public class VarEx01 {
+	public static void main(String[] args) {
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+		System.out.println("안녕하세요? 25살 설현씨");
+	}
+}

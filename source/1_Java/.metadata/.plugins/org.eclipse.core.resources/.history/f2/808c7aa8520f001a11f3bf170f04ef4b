@@ -1,0 +1,11 @@
+package com.tj.ex;
+
+public class VarEx02 {
+	public static void main(String[] args) {
+		int i = 10; // 4byte짜리 i라는 주머니에 10을 할당(대입)
+		byte j = 20;
+		double h = 0.1;
+		i = 5;
+		System.out.println("i="+i+"\t j="+j+"\t h="+h);
+	}
+}

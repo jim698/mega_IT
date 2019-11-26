@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ch02_variable&apos; to &apos;com.tj.ex&apos;&#x0D;&#x0A;- Original project: &apos;ch02_variable&apos;&#x0D;&#x0A;- Original element: &apos;ch02_variable/src/ch02_variable&apos;&#x0D;&#x0A;- Renamed element: &apos;ch02_variable/src/com.tj.ex&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ch02_variable&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ch02_variable" name="com.tj.ex" qualified="false" references="true" stamp="1574662845227" textual="false" version="1.0"/>
+</session>
